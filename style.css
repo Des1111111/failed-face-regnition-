@@ -1,0 +1,20 @@
+.heading{
+width:80%;
+font-size:22px;
+}
+.name_off_obj{
+color:white;
+}
+body{
+background: rgb(108, 172, 194);
+border: 5px solid yellow;
+margin: 20px;
+}
+#camera{
+border: 3px dashed white ;
+width: 350px;
+height: 300px;
+}
+.bro{
+color: aqua;
+}
